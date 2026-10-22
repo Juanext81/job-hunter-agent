@@ -1,0 +1,23 @@
+name: Camilo Rojas
+location: Bogotá, Colombia
+languages: [Spanish, English]
+links:
+  github: https://github.com/TU_USUARIO
+target:
+  type: [freelance, junior-fulltime]
+  roles: [data analyst, data engineer, data scientist, front-end developer]
+  modality: [remote, hybrid-bogota]
+skills:
+  core: [python, sql, power bi]
+  data: [etl, databricks, azure]
+  web: [react, next.js, supabase]
+projects:
+  - name: job-hunter-agent
+    url: https://github.com/TU_USUARIO/job-hunter-agent
+    description: AI agent that finds, scores and drafts proposals for job and freelance opportunities
+rate:
+  currency: USD
+  hourly_min: 10
+client:
+  min_rating: 4.5
+dealbreakers: []
