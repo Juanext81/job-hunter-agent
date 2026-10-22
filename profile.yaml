@@ -1,0 +1,26 @@
+skills:
+  languages:
+    - Python
+    - Go
+    - TypeScript
+  frameworks:
+    - FastAPI
+    - React
+    - Django
+  tools:
+    - Docker
+    - Kubernetes
+    - PostgreSQL
+    - Redis
+  cloud:
+    - AWS
+    - GCP
+
+experience_years: 5
+roles:
+  - Backend Engineer
+  - Software Engineer
+  - Platform Engineer
+locations:
+  - Remote
+min_salary: 80000
